@@ -1,4 +1,4 @@
-# [No te fíes ni de tus contadores hardware]
+# No te fíes ni de tus contadores hardware
 
   
 
